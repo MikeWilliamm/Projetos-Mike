@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercícios sobre Estrutura Condicional (if-else) 2", "Exercícios sobre Estrutura Condicional (if-else) 2\Exercícios sobre Estrutura Condicional (if-else) 2.csproj", "{607CDF8A-53F5-4E43-963D-025846E418B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{607CDF8A-53F5-4E43-963D-025846E418B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607CDF8A-53F5-4E43-963D-025846E418B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607CDF8A-53F5-4E43-963D-025846E418B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607CDF8A-53F5-4E43-963D-025846E418B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05168954-E672-4A3F-B338-D6B5615E7CA0}
+	EndGlobalSection
+EndGlobal
